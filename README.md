@@ -1,1 +1,1 @@
-# mamorycard
+# memorycard
